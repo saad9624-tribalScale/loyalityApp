@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "108181486762",
+    "firebase_url": "https://finalchatapp-5cbd0.firebaseio.com",
+    "project_id": "finalchatapp-5cbd0",
+    "storage_bucket": "finalchatapp-5cbd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108181486762:android:d04636e16735bac14564d3",
+        "android_client_info": {
+          "package_name": "com.auction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108181486762-kpmktjmf3e098nto69e2bab2ajng592t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExqbyK-gNXXAR7CT-YJ0Vc9mpvXbSWmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108181486762-kpmktjmf3e098nto69e2bab2ajng592t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108181486762-i5kkdlkhf53sejrfosoatgpi7t3f4kko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunrise.anti"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108181486762:android:e02f055e43b9827c",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.firestorechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108181486762-5grejol9ukr0r01sgneq100duchv8k4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithmitch.firestorechatapp",
+            "certificate_hash": "bba09065b98d37847e9188bd73017a10950426c9"
+          }
+        },
+        {
+          "client_id": "108181486762-kpmktjmf3e098nto69e2bab2ajng592t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExqbyK-gNXXAR7CT-YJ0Vc9mpvXbSWmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108181486762-kpmktjmf3e098nto69e2bab2ajng592t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108181486762-i5kkdlkhf53sejrfosoatgpi7t3f4kko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunrise.anti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
